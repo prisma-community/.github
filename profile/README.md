@@ -2,7 +2,9 @@
 
 This GitHub organization contains **example projects**, **templates** and other **repos from the Prisma ecosystem**. 
 
-These can be contributed and maintained by **Prisma employees** as well as by **community members** who want to increase the discoverability of their Prisma-related projects.
+These can be contributed and maintained by **Prisma employees** as well as by **community members** who want to increase the discoverability of or find other maintainers for their Prisma-related projects.
+
+If you would like to contribute a (new or existing) repository to this organization, please read the [contribution guidelines](./CONTRIBUTING.md) and reach out to us!
 
 ## 💚 Community
 
