@@ -6,11 +6,11 @@ These can be contributed and maintained by **Prisma employees** as well as by **
 
 If you would like to contribute a (new or existing) repository to this organization, please read the [contribution guidelines](https://github.com/prisma-test-org/.github/blob/main/profile/CONTRIBUTING.md) and reach out to us!
 
-## 💚 Community
+<!-- ## 💚 Community -->
 
 Please join the [Prisma Community](https://prisma.io/community), we're happy to have you here! 
 
-<!-- <details><summary>Get in touch with us or learn more about Prisma via any of the channels below.</summary> -->
+<details><summary>Get in touch with us or learn more about Prisma via any of the channels below.</summary>
 
 ### 💌 Get in touch
 
@@ -33,4 +33,4 @@ You can learn more about Prisma and its rich ecosystem and community with these 
 - [Prisma Day](https://www.prisma.io/day): Our yearly conference where the Prisma Community gets together
 - [Success Stories](https://prisma.io/showcase): Learn how people successfully use Prisma in production
 
-<!-- </details> -->
+</details>
