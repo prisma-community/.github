@@ -4,12 +4,11 @@ This GitHub organization contains **example projects**, **templates** and other 
 
 These can be contributed and maintained by Prisma employees as well as by community members who want to increase the discoverability of their Prisma-related projects.
 
-
 ## 💚 Community
 
 Please join the [Prisma Community](https://prisma.io/community), we're happy to have you here! 
 
-<details><summary>Get in touch with us or learn more about Prisma via any of the channels below.</summary>
+<!-- <details><summary>Get in touch with us or learn more about Prisma via any of the channels below.</summary> -->
 
 ### 💌 Get in touch
 
@@ -32,5 +31,4 @@ You can learn more about Prisma and its rich ecosystem and community with these 
 - [Prisma Day](https://www.prisma.io/day): Our yearly conference where the Prisma Community gets together
 - [Success Stories](https://prisma.io/showcase): Learn how people successfully use Prisma in production
 
-
-</details>
+<!-- </details> -->
