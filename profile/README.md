@@ -4,7 +4,7 @@ This GitHub organization contains **example projects**, **templates** and other 
 
 These can be contributed and maintained by **Prisma employees** as well as by **community members** who want to increase the discoverability of or find other maintainers for their Prisma-related projects.
 
-If you would like to contribute a (new or existing) repository to this organization, please read the [contribution guidelines](https://github.com/prisma-test-org/.github/blob/main/profile/CONTRIBUTING.md) and reach out to us!
+If you would like to contribute a (new or existing) repository to this organization, please read the [contribution guidelines](https://github.com/prisma-test-org/.github/blob/main/profile/CONTRIBUTING.md) and [reach out to us](mailto:devrel@prisma.io)!
 
 <!-- ## 💚 Community -->
 
