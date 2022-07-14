@@ -1,38 +1,10 @@
-![Prisma](https://i.imgur.com/h6UIYTu.png)
+## 👋 Welcome to the Prisma Community
 
-<div align="center">
-  <h1>Prisma</h1>
+This GitHub organization contains **example projects**, **templates** and other **repos from the Prisma ecosystem**. 
 
-  <br />
-  <a href="https://www.prisma.io/docs/getting-started/quickstart">Quickstart</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.prisma.io/">Website</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://www.prisma.io/docs/">Docs</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://github.com/prisma/prisma-examples/">Examples</a>
-  <span>&nbsp;&nbsp;•&nbsp;&nbsp;</span>
-  <a href="https://prisma.io/data-platform">Prisma Data Platform</a>
-  <br />
-  <hr />
-</div>
-
-## 👋 Welcome
-
-Prisma makes working with databases easy! Currently, we are building two main tools:
-
-- [Prisma ORM](https://github.com/prisma/prisma) (Node.js & TypeScript | PostgreSQL, MySQL, MariaDB, SQL Server, SQLite, CockroachDB & MongoDB)
-- [Prisma Data Platform](https://prisma.io/data-platform) for development teams and organizations
-
-You can learn about upcoming Prisma features on the [roadmap](https://pris.ly/roadmap) and ask questions via [GitHub Discussions](https://github.com/prisma/prisma/discussions). The Prisma ORM is released every three weeks, you can learn more in the [release notes](https://github.com/prisma/prisma/releases).
+These can be contributed and maintained by Prisma employees as well as by community members who want to increase the discoverability of their Prisma-related projects.
 
 
-## 🎁 Repositories
-
-This GitHub organization contains repos that are _officially_ maintained by [Prisma](https://prisma.io):
-
-- The Prisma ORM can be found in the main [`prisma/prisma`](https://github.com/prisma/prisma) repo. 
-- The [documentation](https://prisma.io/docs) for the ORM and the Prisma Data Platform is in located the [`prisma/docs`](https://github.com/prisma/docs) repo.
 
 ## 💚 Community
 
