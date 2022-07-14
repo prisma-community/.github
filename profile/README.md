@@ -1,4 +1,4 @@
-## 👋 Welcome to the Prisma Community
+## 💚 Welcome to the Prisma Community
 
 This GitHub organization contains **example projects**, **templates** and other **repos from the Prisma ecosystem**. 
 
