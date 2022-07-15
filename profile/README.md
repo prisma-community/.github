@@ -6,7 +6,7 @@ These can be contributed and maintained by **Prisma employees** as well as by **
 
 <!-- ## 💚 Community -->
 
-Please join the [Prisma Community](https://prisma.io/community), we're happy to have you here! 
+<!-- Please join the [Prisma Community](https://prisma.io/community), we're happy to have you here!  -->
 
 <details><summary>Get in touch with us or learn more about Prisma via any of the channels below.</summary>
 
