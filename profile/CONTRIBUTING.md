@@ -10,6 +10,7 @@
   - [README structure](#readme-structure-1)
   - [Pin major versions in `package.json`](#pin-major-versions-in-packagejson-1)
 - [Contributing tooling](#contributing-tooling)
+  - [README structure](#readme-structure-2)
 ## Who can add repositories to this organization?
 
 Everyone is welcome to add new repositories to this organization as long as the repository adheres to the contribution guidelines (read more below).
@@ -75,7 +76,7 @@ We believe it's more important for a template to be functional than to be always
 
 ## Contributing tooling
 
-This section explains the best practices for adding tooling, such as [middleware](https://www.prisma.io/docs/concepts/components/prisma-client/middleware) packages, [generators](https://www.prisma.io/docs/concepts/components/prisma-schema/generators#community-generators), and utitilies from the Prisma ecosystem).
+This section explains the best practices for adding tooling, such as [middleware](https://www.prisma.io/docs/concepts/components/prisma-client/middleware) packages, [generators](https://www.prisma.io/docs/concepts/components/prisma-schema/generators#community-generators), and utitilies from the Prisma ecosystem.
 
 ### README structure
 
