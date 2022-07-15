@@ -4,7 +4,11 @@
 - [How to contribute a new repository?](#how-to-contribute-a-new-repository)
 - [What kind of repositories can be added to this organization?](#what-kind-of-repositories-can-be-added-to-this-organization)
 - [Contributing an example project](#contributing-an-example-project)
+  - [README structure](#readme-structure)
+  - [Pin major versions in `package.json`](#pin-major-versions-in-packagejson)
 - [Contributing a template](#contributing-a-template)
+  - [README structure](#readme-structure-1)
+  - [Pin major versions in `package.json`](#pin-major-versions-in-packagejson-1)
 - [Contributing tooling](#contributing-tooling)
 ## Who can add repositories to this organization?
 
