@@ -1,5 +1,11 @@
 # Contributing to this GitHub organization
 
+- [Who can add repositories to this organization?](#who-can-add-repositories-to-this-organization)
+- [How to contribute a new repository?](#how-to-contribute-a-new-repository)
+- [What kind of repositories can be added to this organization?](#what-kind-of-repositories-can-be-added-to-this-organization)
+- [Contributing an example project](#contributing-an-example-project)
+- [Contributing a template](#contributing-a-template)
+- [Contributing tooling](#contributing-tooling)
 ## Who can add repositories to this organization?
 
 Everyone is welcome to add new repositories to this organization as long as the repository adheres to the contribution guidelines (read more below).
