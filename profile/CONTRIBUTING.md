@@ -77,3 +77,14 @@ We believe it's more important for a template to be functional than to be always
 
 This section explains the best practices for adding tooling, such as [middleware](https://www.prisma.io/docs/concepts/components/prisma-client/middleware) packages, [generators](https://www.prisma.io/docs/concepts/components/prisma-schema/generators#community-generators), and utitilies from the Prisma ecosystem).
 
+### README structure
+
+The README of a tool should contain the following sections (as `h2` headings, i.e. `##` in Markdown):
+
+- **Overview**: Describe what the tool is about.
+- **Features**: List the features this tool has.
+- **Installation**: Explain how to install the tool. This section should include any other relevant information (e.g. specific configurations) that is required to use the tool.
+- **Documentation**: Document the tool. 
+  - If the tool is a **library**, describe how the library can be used, include an API reference and provide usage examples.  
+  - If the tool is a **CLI**, document all CLI commands, their options and provide usage examples.
+- **Author**: Include a section where you briefly introduce yourself and let readers know how they can reach you.
