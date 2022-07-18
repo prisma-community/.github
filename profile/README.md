@@ -1,3 +1,6 @@
+![Prisma](./prisma-banner.png)
+
+
 ## 💚 Welcome to the Prisma Community
 
 This GitHub organization contains **example projects**, **templates** and other **repos from the Prisma ecosystem**. 
