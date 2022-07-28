@@ -1,4 +1,4 @@
-![Prisma](./prisma-banner.png)
+![Prisma](https://camo.githubusercontent.com/2fa9cbb7beed3fc3b32b8408fd98e988b4c3163e135740dea7c01bd051584a42/68747470733a2f2f696d6775722e636f6d2f376c5156794e6d2e706e67)
 
 
 ## 💚 Welcome to the Prisma Community
